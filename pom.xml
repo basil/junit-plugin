@@ -150,7 +150,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>database</artifactId>
-            <version>117.va2009e38b882</version>
+            <version>166.vf8eb_e4c80a_5d</version>
             <scope>test</scope>
             <exclusions>
                 <exclusion> <!-- TODO move to bom in Jenkins core -->
